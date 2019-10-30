@@ -1,5 +1,6 @@
 package com.mudit.org;
 
+//Employee POJO
 public class Employee {
 
 	private int employeeSalary;
